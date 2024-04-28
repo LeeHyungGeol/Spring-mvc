@@ -1,3 +1,4 @@
 rootProject.name = 'spring-mvc'
 include 'mvc'
 include 'servlet'
+include 'item-service'
