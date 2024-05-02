@@ -1,6 +1,5 @@
 package com.brothergeol.thymeleaf;
 
-import com.brothergeol.thymeleaf.basic.BasicController.HelloBean;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
