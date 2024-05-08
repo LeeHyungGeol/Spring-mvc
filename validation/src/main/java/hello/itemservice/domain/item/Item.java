@@ -8,7 +8,7 @@ import org.hibernate.validator.constraints.Range;
 import org.hibernate.validator.constraints.ScriptAssert;
 
 @Data
-@ScriptAssert(lang = "javascript", script = "_this.price * _this.quantity >= 10000")
+//@ScriptAssert(lang = "javascript", script = "_this.price * _this.quantity >= 10000")
 public class Item {
 
     private Long id;
